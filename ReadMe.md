@@ -22,9 +22,9 @@ Just Click On Code {Green Button} Then Download Zip And then Go to Main File And
 In future updates, Mr Ferro BOT is planned to have the following exciting features:
 
 - 📷 Camera Integration: Mr Ferro BOT will be equipped with a camera to perform visual tasks.
-- 
+  
 - 🎙️ Microphone Integration: Voice commands and interactions will be supported with a built-in microphone.
-- 
+  
 - 🔥 Thermal Camera: A thermal camera will be included for advanced sensing capabilities.
 - 
 - 🖥️ VPX OS Compatibility: Mr Ferro BOT is designed for seamless integration with the upcoming VPX OS, providing enhanced performance and compatibility.
