@@ -11,8 +11,17 @@ Mr Ferro BOT is a Chat Bot Which Will Respond To your Messages And Speaks It.
 
 - ✨ Free
 - 🚀 Fast
-- 🌐 Auto Detects System
+- 🌐 Auto Detects Speaker Syatem
 
 ## Installation 🛠️
 
-Just Click On Code
+Just Click On Code {Green Button} Then Download Zip And then Go to Main File And At Last Click On Run The Bot.bat Then It will Update Itself and then Runs
+
+## Future Features 🚀
+In future updates, Mr Ferro BOT is planned to have the following exciting features:
+
+📷 Camera Integration: Mr Ferro BOT will be equipped with a camera to perform visual tasks.
+🎙️ Microphone Integration: Voice commands and interactions will be supported with a built-in microphone.
+🔥 Thermal Camera: A thermal camera will be included for advanced sensing capabilities.
+🖥️ VPX OS Compatibility: Mr Ferro BOT is designed for seamless integration with the upcoming VPX OS, providing enhanced performance and compatibility.
+Stay tuned for updates as we continue to enhance Mr Ferro BOT for an even more incredible user experience!
