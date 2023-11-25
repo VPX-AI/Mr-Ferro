@@ -27,9 +27,9 @@ In future updates, Mr Ferro BOT is planned to have the following exciting featur
   
 - 🔥 Thermal Camera: A thermal camera will be included for advanced sensing capabilities.
   
-- 🖥️ VPX OS Compatibility: Mr Ferro BOT is designed for seamless integration with the upcoming VPX OS, providing enhanced performance and compatibility.
+- 🖥️ VPX OS Compatibility: Mr Ferro BOT is designed for seamless integration with the upcoming VPX OS, providing enhanced performance and compatibility. VPX OS is A type Of Os Which Have AI and the os Knows About its system and Have Ability To change it or Edit Some Signals , Parts , etc If Damaged. Means OS Have 💯% Acess To Its Hardware
   
-Stay tuned for updates as we continue to enhance Mr Ferro BOT for an even more incredible user experience!
+- Stay tuned for updates as we continue to enhance Mr Ferro BOT for an even more incredible user experience!
 
 ## Joining 🤝
 If you'd like to contribute to Mr Ferro BOT, please follow these guidelines:
