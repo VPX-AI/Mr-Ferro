@@ -40,4 +40,4 @@ If you'd like to contribute to Mr Ferro BOT, please follow these guidelines:
 - Then You Can Join The Team If You Have A Good Talent
 
 ## Files System 📁
--- Soon
+~ Soon Adding
