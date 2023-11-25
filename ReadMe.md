@@ -26,7 +26,18 @@ In future updates, Mr Ferro BOT is planned to have the following exciting featur
 - 🎙️ Microphone Integration: Voice commands and interactions will be supported with a built-in microphone.
   
 - 🔥 Thermal Camera: A thermal camera will be included for advanced sensing capabilities.
-- 
+  
 - 🖥️ VPX OS Compatibility: Mr Ferro BOT is designed for seamless integration with the upcoming VPX OS, providing enhanced performance and compatibility.
   
 Stay tuned for updates as we continue to enhance Mr Ferro BOT for an even more incredible user experience!
+
+## Joining 🤝
+If you'd like to contribute to Mr Ferro BOT, please follow these guidelines:
+
+- Download The Code
+- Run The Code And Find
+- Fix It
+- Then You Can Join The Team If You Have A Good Talent
+
+## Files System 📁
+-- Soon
