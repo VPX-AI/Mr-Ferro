@@ -5,19 +5,14 @@ Welcome to the Mr Ferro BOT repository! This bot is designed By Vikrant Pathania
 
 ## Introduction 🎉
 
-Mr Ferro BOT is an amazing bot that [provide a brief overview of what the bot does].
+Mr Ferro BOT is a Chat Bot Which Will Respond To your Messages And Speaks It.
 
 ## Features 🌈
 
-- ✨ Feature 1
-- 🚀 Feature 2
-- 🌐 Feature 3
+- ✨ Free
+- 🚀 Fast
+- 🌐 Auto Detects System
 
 ## Installation 🛠️
 
-To install Mr Ferro BOT, follow these steps:
-
-```bash
-$ git clone https://github.com/your-username/mr-ferro-bot.git
-$ cd mr-ferro-bot
-$ npm install
+Just Click On Code
