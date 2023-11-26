@@ -81,7 +81,7 @@ def BOT_EXIT_Review():
     EXP = input("""This Bot is Made By Vikrant Pathania, a School Student of 16 years.
 He made this using 100% Python, random, and webbrowser libraries.
 Please share your experience, and your You can give review\'s screenshort at 
-our website or insta which you can find in my website Thank You.
+our website or instagram which you can find in my website Thank You.
 ___________________________________________________________________________________
 How Was Your Experience? => """)
     print("\n")
