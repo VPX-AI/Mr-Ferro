@@ -1,9 +1,11 @@
+#Librarys {Public}
+
 import webbrowser
 
-Yt = "https://www.youtube.com"
+#Functions
 
 def Youtube_Link():
-    Yt_url = Yt
+    Yt_url = "https://www.youtube.com"
     webbrowser.open(Yt_url)
 def Chat_Gpt_Link():
     GPT_url= "https://chat.openai.com/"

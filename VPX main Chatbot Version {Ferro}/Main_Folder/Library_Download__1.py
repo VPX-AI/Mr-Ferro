@@ -1,40 +1,21 @@
-import subprocess
-import sys
-import time
+#Librarys {Self}
 
-System_Message = "| ~ | System | ~ | =========> "
-Space = """
+import banner , Const_Vari
+
+#Librarys {Public}
+
+import subprocess , sys
 
 
-"""
-Arrow = "==>"
-repeat = 1
-star_difference = 1
-lines =75
-Time = 0.03
-def Animation_Ferro_Banner():
-    for _ in range(278):
-        sys.stdout.write("~")
-        sys.stdout.flush()
-        time.sleep(0.001)
-def Ferro_Updating_Banner():
-    Animation_Ferro_Banner()
-    print("""
-                                        ██    ██ ██████  ██████   █████  ████████ ██ ███    ██  ██████  
-                                        ██    ██ ██   ██ ██   ██ ██   ██    ██    ██ ████   ██ ██       
-                                        ██    ██ ██████  ██   ██ ███████    ██    ██ ██ ██  ██ ██   ███ 
-                                        ██    ██ ██      ██   ██ ██   ██    ██    ██ ██  ██ ██ ██    ██ 
-                                         ██████  ██      ██████  ██   ██    ██    ██ ██   ████  ██████                                                                                                                                                 
-            """)
-    Animation_Ferro_Banner()
 def install_or_update_libraries():
     libraries = ["pyautogui"]
     for library in libraries:
-        print(f"{Space}{System_Message}Installing And updating {library}...{Space}")
+        print(f"{Const_Vari.Space_Big}{Const_Vari.System_Message}Installing And updating {library}...{Const_Vari.Space_Big}")
         subprocess.run(f"pip install --upgrade {library}", shell=True)
 
-Ferro_Updating_Banner()
+banner.Ferro_Updating_Banner()
 install_or_update_libraries()
-file_two_path = 'Library_Download__2.py'
-subprocess.run(['python', file_two_path])
+
+Next_File_1 = 'Library_Download__2.py'
+subprocess.run(['python', Next_File_1])
 sys.exit()

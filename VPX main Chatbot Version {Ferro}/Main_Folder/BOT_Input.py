@@ -1,15 +1,3 @@
-"""
-_____________________________________________________________________________________________
-Source code of VPX-AI by Company VPX {Owner=>Vikrant Pathania}
-Welcome All To This Source code of Chating Part Of AI Module == {Ferro} 
-Developers => {||__|| => 100% <= ||__||} VIKRANT PATHANIA  ~ MrFerro , VP , MrCaffene
-Starting On => 2-11-2023
-_____________________________________________________________________________________________
-
-"""
-#_________________________________________Starting_________________________________________#
-#_________________________________________ Input __________________________________________#
-
 Hi_Message = ["hi","hii","hii","hello","hi how are you","heyo","hey ferro","ferro"]
 Fine_Message = ["i am fine","fine","feeling good"]
 Bye_Message = ["bye","goodbye","bye bye","byebye","exit","quit","exit bot"]
