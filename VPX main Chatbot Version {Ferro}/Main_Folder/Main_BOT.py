@@ -1,6 +1,6 @@
 #Librarys {Self}
 
-import BOT_Input ,Animations, BOT_Output , Links , banner , Const_Vari , Text_To_Speech , Check_Speaker
+import BOT_Input , Animations , Corrected_Words , BOT_Output , Links , banner , Const_Vari , Text_To_Speech , Check_Speaker
 
 #Librarys {Public}
 
@@ -8,14 +8,6 @@ import random , subprocess , sys
 
 #All Functions
 
-def Remove_Char_Not_Req(input_string):
-    special_characters =["~","`","!","@","#","$","%","^","&","*","(",")","_","-","=","+",
-                        "{","}","[","]",":",";","\"","'","|","\\","<",">",",",".","?","/",]
-    cleaned_string = ''
-    for char in input_string:
-        if char not in special_characters:
-            cleaned_string += char
-    return cleaned_string
 def Next_line():
     Animations.Animation_Of_UnderScore_Slow()
 
@@ -32,7 +24,7 @@ while True:
 
     user_input = input(Const_Vari.YOU)
     user_input = user_input.lower().strip()
-    user_input = Remove_Char_Not_Req(user_input)
+    user_input = Corrected_Words.Remove_Char_Not_Req(user_input)
 
 #Main Text Foam Reply To Text
 
